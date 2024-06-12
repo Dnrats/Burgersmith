@@ -15,10 +15,15 @@ WP Cafe: A plugin to enhance the e-commerce capabilities specific to restaurant 
 ## Technologies Used
 
 WordPress
+
 WooCommerce Plugin
+
 Elementor Plugin
+
 WP Cafe Plugin
+
 Astra Theme: Used as the base template, further customized with a child theme.
+
 Figma: Utilized for creating mock-ups and designing the visual aspects of the website.
 
 ## Website Features
