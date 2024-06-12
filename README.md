@@ -5,8 +5,11 @@ Burgersmith is a WordPress-based website designed for a fictional restaurant tha
 ## Features
 
 WordPress: The foundation of the project, providing a robust and flexible CMS.
+
 WooCommerce: A plugin for adding e-commerce functionality, allowing users to browse and order burgers.
+
 Elementor: A visual page builder used for designing and customizing the layout and appearance of the website.
+
 WP Cafe: A plugin to enhance the e-commerce capabilities specific to restaurant websites, including order tracking and management.
 
 ## Technologies Used
