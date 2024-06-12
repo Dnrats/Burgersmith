@@ -2,7 +2,7 @@
 ## Project Overview
 Burgersmith is a WordPress-based website designed for a fictional restaurant that specializes in selling various types of burgers inspired by different American states. This project was created as a personal endeavor to refresh and enhance my knowledge of WordPress and its ecosystem.
 
-##Features
+## Features
 
 WordPress: The foundation of the project, providing a robust and flexible CMS.
 WooCommerce: A plugin for adding e-commerce functionality, allowing users to browse and order burgers.
